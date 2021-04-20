@@ -1,10 +1,14 @@
 ![Header image](header.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/brand/join?token=7IceextuID7FnKeq5KaK9Q&referrer=team-invite-->
-I am an aspiring software engineer who loves to learn about new things and solve problems. 
+ 
+## Dumela 👋👋, Welcome to my GitHub profile.
 
-<img align='right' src='https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif' width='200"'>
+[![Kayne's twitter](https://img.shields.io/badge/twitter--blue?style=social&logo=twitter)](https://twitter.com/kayne_103)
+[![Kayne's facebook](https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook)](https://facebook.com/kayne103)
+[![Kayne's docker](https://img.shields.io/badge/Dockerhub--blue?style=social&logo=docker)](https://hub.docker.com/u/kayne103)
 
-## ⚡ Interested In:
-- Software Engineering
-- Software Design
-- Data Science
+![Kayne's github stats](https://github-readme-stats.vercel.app/api?username=kayne103&theme=blue-green)
+
+<img src="https://img.shields.io/badge/Tswana-Code%20Brewer-blue.svg?style=for-the-badge" alt="tswana code brewer">
+
+![Kayne's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kayne103&theme=blue-green)
