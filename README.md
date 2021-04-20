@@ -7,8 +7,7 @@
 [![Kayne's facebook](https://img.shields.io/badge/Facebook--blue?style=social&logo=facebook)](https://facebook.com/kayne103)
 [![Kayne's docker](https://img.shields.io/badge/Dockerhub--blue?style=social&logo=docker)](https://hub.docker.com/u/kayne103)
 
-![Kayne's github stats](https://github-readme-stats.vercel.app/api?username=kayne103&theme=blue-green)
-
 <img src="https://img.shields.io/badge/Tswana-Code%20Brewer-blue.svg?style=for-the-badge" alt="tswana code brewer">
 
 ![Kayne's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kayne103&theme=blue-green)
+![Kayne's github stats](https://github-readme-stats.vercel.app/api?username=kayne103&theme=blue-green)
