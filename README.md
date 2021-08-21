@@ -1,7 +1,7 @@
 ![Header image](header.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/brand/join?token=7IceextuID7FnKeq5KaK9Q&referrer=team-invite-->
  
-# Dumela 👋Hello there👋, I hope you're have a good day. Welcome to my GitHub profile.
+# Dumela 👋Hello there👋, I hope you're having a good day. Welcome to my GitHub profile.
 I am Kaene Karabo Lebakeng but you can call me Kayne😁. I love tech💻, innovating💡, and problem solving🧠.
 
 I'm mainly interested in software development and DevOps. My weapons of choice are Python🐍 and Java☕. Check out my repos and enjoy yourself.
